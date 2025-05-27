@@ -1,0 +1,1 @@
+# google-spreadsheet-nuxt-i18n
